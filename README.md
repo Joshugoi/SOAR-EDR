@@ -11,7 +11,7 @@ To build expertise in automating security operations and enhancing endpoint secu
 <h2>Skills Learned</h2>
 
   - SOAR Implementation: Designed and automated workflows using Tines for incident response and security event management.
-  - EDR Configuration: Deployed LimaCharlie to monitor, analyze, and respond to endpoint activity.
+  - EDR Configuration: LimaCharlie was deployed to monitor, analyze, and respond to endpoint activity.
   - Threat Detection and Analysis: Improved skills in identifying and mitigating advanced threats through endpoint telemetry.
   - Automation Scripting: Created automated processes for alerting, containment, and remediation of threats.
   - Incident Response: Developed end-to-end workflows to handle security incidents quickly and effectively.
@@ -21,8 +21,9 @@ To build expertise in automating security operations and enhancing endpoint secu
 
 <h2>Tools Used</h2>
 
-  - LimaCharlie: For endpoint detection and response, telemetry collection, and threat monitoring.
+  - LimaCharlie: This is for endpoint detection and response, telemetry collection, and threat monitoring.
   - Tines: For creating and automating security workflows to orchestrate incident responses.
     
 <h2>Conclusion</h2>
-Through this SOAR and EDR project, I have gained valuable experience in deploying and managing advanced cybersecurity tools like LimaCharlie and Tines. This project has strengthened my understanding of automation, threat detection, and response orchestration, equipping me with the skills needed to contribute to efficient and scalable security operations. It highlights my ability to design proactive solutions that mitigate risks and streamline workflows, ensuring organizations are better prepared to defend against evolving cyber threats.
+Through this SOAR and EDR project, I gained valuable experience deploying and managing advanced cybersecurity tools like LimaCharlie and Tines. This project has strengthened my understanding of automation, threat detection, and response orchestration, equipping me with the skills to contribute to efficient and scalable security operations. It highlights my ability to design proactive solutions that mitigate risks and streamline workflows, ensuring organizations are better prepared to defend against evolving cyber threats.
+
